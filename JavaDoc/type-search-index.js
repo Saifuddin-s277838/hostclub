@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.uum","l":"App"},{"p":"assignment1","l":"ReadWeb"},{"p":"assignment1","l":"Student"},{"p":"assignment1","l":"Supervisor"},{"p":"assignment1","l":"ThreadStudent"},{"p":"assignment1","l":"ThreadSupervisor"}];updateSearchResults();
